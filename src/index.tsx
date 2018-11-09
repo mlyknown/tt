@@ -16,7 +16,7 @@ export default class ExampleComponent extends React.Component<Props> {
 
     return (
       <div className={styles.test}>
-        11Example Component: {text}
+        11Eqxample Component: {text}
       </div>
     )
   }
